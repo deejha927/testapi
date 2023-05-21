@@ -10,6 +10,7 @@ function App() {
       <div>
         <Card title={"Product1"} description={"Just check"} quantity={2} />
         <Card title={"Product2"} description={"Just check 2"} quantity={4} />
+        <p>Hello</p>
       </div>
       <Footer />
     </div>
